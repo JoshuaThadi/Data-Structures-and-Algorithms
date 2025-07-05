@@ -114,7 +114,10 @@ A data structure is a way of organizing and storing data so that it can be acces
 </a>
 
 ---
+
+<div align="center">
 ⚠️ This repository is uniquely designed by <strong>@JoshuaThadi</strong>
+</div>
   
 </div>
 
