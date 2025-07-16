@@ -106,7 +106,7 @@ A data structure is a way of organizing and storing data so that it can be acces
 
 <div><p><h1></h1></p></div>
 
-<h4>🚀 Practice DSA — Strengthen your problem-solving skills with hands-on coding challenges! Solve, learn, and master Data Structures & Algorithms. 💡🔥</h4>
+<h4>🚀 Practice DSA — Strengthen your problem-solving skills with hands-on coding challenges! Solve, learn, and master Data Structures & Algorithms.</h4>
 <a href="https://leetcode.com/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub%20|%20LeetCode-6e6e6e?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116&label=LeetCode" alt="GitHub | LeetCode Badge"></a>
 <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME" target="_blank">
