@@ -91,8 +91,11 @@ A data structure is a way of organizing and storing data so that it can be acces
   <a href="https://leetcode.com/u/hOrjU0YmRs/" target="_blank">
   <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-MasterJudah-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=white" /></a>
   <a href="https://github.com/JoshuaThadi/Data-Structures-and-Algorithms/blob/main/DSA-roadmap.md" target="_blank">
-  <img src="https://img.shields.io/badge/DSA_Roadmap-grey?style=for-the-badge&logo=github" alt="DSA Roadmap">
-</a>
+  <img src="https://img.shields.io/badge/DSA_Roadmap-grey?style=for-the-badge&logo=github" alt="DSA Roadmap"></a>
+  <a href="https://github.com/JoshuaThadi/Data-Structures-and-Algorithms/blob/main/OOPs_roadmap.md" target="_blank">
+  <img src="https://img.shields.io/badge/OOPs_Roadmap-grey?style=for-the-badge&logo=github" alt="DSA Roadmap"></a>
+
+  
 
 <div><p><h1></h1></p></div>
   
